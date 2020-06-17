@@ -1,0 +1,96 @@
+html,body{
+
+    background-image: url('img/john-arano-h4i9G-de7Po-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+
+    }
+    
+    .container{
+
+    height: 100%;
+    align-content: center;
+
+    }
+
+    
+    .card{
+
+    height: 560px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 500px;
+    background-color: rgba(0,0,0,0.5) !important;
+
+    }
+    
+    .card-header h3{
+    color: limegreen;
+    
+    }
+    
+    input:focus{
+    outline: 0 0 0 0  !important;
+    box-shadow: 0 0 0 0 !important;
+    
+    }
+    
+    .remember{
+    color: white;
+    margin-top: 15px;
+    }
+    
+    .remember input
+    {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+    
+    }
+    
+    .login_btn{
+    color: black;
+    background-color: orange;
+    width: 100px;
+    margin-top: 10px;
+    }
+    
+    .login_btn:hover{
+    color: black;
+    background-color: white;
+    }
+
+.sexo,label{
+
+color: white;
+
+}
+
+.sexo input{
+
+margin-top: 5px;
+margin-left: 20px;
+
+}
+
+.datanascimento{
+
+margin-top: -15px;
+
+}
+.datanascimento input{
+
+margin-left: 20px;
+
+}
+
+.link{
+
+color: rgb(207, 160, 250);
+margin-left: -20px;
+
+}
+
